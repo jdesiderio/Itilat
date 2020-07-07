@@ -1,5 +1,4 @@
-# hello-world
-Trying things out
+# Itineraria latina
+Creating space through language in Antiquity and the Early Middle Ages
 
-Hey there!
-No clue what I'm doing here, but we'll see.
+Coming soon: digital edition of  Bede's De locis sanctis.
